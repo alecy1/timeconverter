@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Marvel&family=Tenali+Ramakrishna&display=swap'); 
+*{box-sizing:border-box;}
+body{ margin: 0; font-family: 'Tenali Ramakrishna', sans-serif;}
+.header{
+  background-color: #8bc5d1; 
+  padding: 2px 0px;
+  box-shadow: rgba(0, 0, 0, 0.36) 0px 25px 20px -20px;
+  height: auto;
+  color: white;
+  border-bottom: 1px solid #e1f2f8;
+}
+.estilo{padding-top: 20px; padding-bottom: 20px;}
+.textColor{color: #424949;padding-left: 9px; font-family: Marvel;padding-top: 5px;}
+.textColor1{color: #7B7D7D; font-family: Marvel;}
+.margen{margin-top:2rem;}
+.footer{
+  margin: 0;
+  padding: 60px; 
+  background-color: #8bc5d1;
+  color: white;
+  bottom: 0;
+  position: static;
+  height: auto;
+  width: 100%;
+}
+.menu-footer { list-style-type: none;}
+.menu-li{
+  color: white;
+  text-decoration: none;
+  text-align: left;
+  font-size: medium;
+  display: inline;
+  margin: 0.5rem;
+}
+.menu-li1{
+  color: white;
+  text-decoration: none;
+  text-align: left;
+  font-size: medium;
+  display: inline;
+  margin: 0.5rem;
+}
+.linea{
+  border-top: 1px solid #fff;
+  font-size: medium;
+  text-align: center;
+}
+.menu{
+  overflow: hidden;
+  list-style-type: none;
+  float: right;
+  color: #fff;
+  text-decoration: none;
+}
+.menu a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 2rem;
+}
+.menu a:hover{
+  color: #8bc5d1;
+  cursor: pointer;
+}
+
+.color{
+  color: #fff;
+  text-decoration: none;
+  list-style-type: none;
+}
+.color:hover{
+  color: #424949;
+}
